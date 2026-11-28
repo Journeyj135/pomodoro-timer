@@ -1,3 +1,3 @@
 
 # pomodoro-timer
-![Countdown Timer](pomodoro.png)
+![Countdown Timer](C:\Users\newso\practice\pomodoro-timer\pomodoro.png)
